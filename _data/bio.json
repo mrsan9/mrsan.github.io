@@ -6,7 +6,7 @@
     "email": "sandeepsalimeda@gmail.com",
     "phone": "+91 9550781158",
     "website": "https://mrsan9.github.io",
-    "summary": "Game developer at heart who tries to take the long road in search of optimized coding methods",
+    "summary": "Game developer at heart who tries to take the long road in search of optimized coding methods.| Unity 3D | Unreal | OpenGL |",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,19 +29,19 @@
   },
   "interests": [
     {
-      "name": "Game Development",
+      "name": "Physics Programming",
       "keywords": [
         "",
         ""
       ]
     },
     {
-      "name": "Problem Solving",
+      "name": "Game Engine Architecture",
       "keywords": [
       ]
     },
     {
-      "name": "Game Engine Architecture",
+      "name": "Shader Programming",
       "keywords": [
       ]
     }
