@@ -5,9 +5,9 @@
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
-$uh-green-official: #024731; // https://www.hawaii.edu/offices/eaur/graphicsguide.html
-$uh-green: lighten($uh-blue-official, 5%);
-$uh-green-light: lighten($uh-blue-official, 10%);
+$uh-green-official: #1692c7; // https://www.hawaii.edu/offices/eaur/graphicsguide.html
+$uh-green: lighten($uh-green-official, 5%);
+$uh-green-light: lighten($uh-green-official, 10%);
 
 // Customize the menubar color
 .ui.menu {
